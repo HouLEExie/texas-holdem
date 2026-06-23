@@ -1,0 +1,18 @@
+{
+  "name": "德州牌局结算器",
+  "short_name": "德州结算",
+  "description": "朋友局德州扑克筹码、买入、盈亏、排名和转账结算工具。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07110B",
+  "theme_color": "#07110B",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/poker-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
